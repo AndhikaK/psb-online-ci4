@@ -1,0 +1,10 @@
+PSB Online
+
+Website ini dibuat menggunakan framework Codeigniter 4. 
+Struktur folder:
+    - public
+      berisi file/asset untuk website, seperti js, css, img dll
+    
+    - screens/halaman
+      screens/halaman disimpan di folder /app/views. Tiap halaman disimpan didalam folder sesuai dengan modelnya
+
